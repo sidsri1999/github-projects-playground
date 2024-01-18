@@ -1,1 +1,1 @@
-# guthub-projects-playground
+# github-projects-playground
